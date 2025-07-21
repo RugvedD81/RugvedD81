@@ -3,29 +3,26 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugvedd81" alt="rugvedd81" /></a> </p>
 
-- 🔭 I’m currently working on **Job_Portal Application as Backend Developer**
+- 🔭 I’m currently working on **Job_Portal**
 
-- 🌱 I’m currently learning **AWS, Docker, Kubernates, etc**
+- 🌱 I’m currently learning **AWS,Docker,Kubernates,etc**
 
 - 👯 I’m looking to collaborate on [Hotel-Rating-System](https://github.com/RugvedD81/Hotel-Rating-Service)
 
-- 💬 Ask me about **Java, SpringBoot, Spring, Microservices, etc**
+- 💬 Ask me about **Java,SpringBoot,Spring,Microservices,etc**
 
 - 📫 How to reach me **rugveddeshpande041@gmail.com**
-
-- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I believe writing clean backend code is an art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rugved-deshpande-111141231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rugved-deshpande-111141231" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/https://www.instagram.com/rugved_81/profilecard/?igsh=mwf4n2doew5wbjczdg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rugved_81/profilecard/?igsh=mwf4n2doew5wbjczdg==" height="30" width="40" /></a>
-
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/rugvedd12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rugvedd12" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rugveddeshpande1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rugveddeshpande1" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/https://www.hackerrank.com/profile/rugveddeshpande1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.hackerrank.com/profile/rugveddeshpande1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rugveddeshpande041/?_gl=1*14lwng9*_up*mq..*_gs*mq..&gclid=cj0kcqjwyvfdbhdyarisaitzbzfv35vp9r70njc9zscisz-vf8t9p9ympgpha4cwloro6jzhgt7tic8aalkjealw_wcb&gbraid=0aaaaac9ybkahe_aaaahwds3kl_jeq20hg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rugveddeshpande041/?_gl=1*14lwng9*_up*mq..*_gs*mq..&gclid=cj0kcqjwyvfdbhdyarisaitzbzfv35vp9r70njc9zscisz-vf8t9p9ympgpha4cwloro6jzhgt7tic8aalkjealw_wcb&gbraid=0aaaaac9ybkahe_aaaahwds3kl_jeq20hg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rugvedd81&show_icons=true&locale=en&layout=compact" alt="rugvedd81" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rugvedd81&" alt=""/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rugvedd81&" alt="rugvedd81" /></p>
