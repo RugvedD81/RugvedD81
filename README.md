@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugvedd81" alt="rugvedd81" /></a> </p>
 
-- 🔭 I’m currently working on **Job_Portal**
+- 🔭 I’m currently working on **Job_Portal Application as Backend Developer**
 
 - 🌱 I’m currently learning **AWS,Docker,Kubernates,etc**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rugveddeshpande041@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/rugved%20deshpande/Downloads/Rugved%20Deshpande%20Resume.pdf](file:///C:/Users/rugved%20deshpande/Downloads/Rugved%20Deshpande%20Resume.pdf)
+- 📄 Know about my experiences file:///C:/Users/rugved%20deshpande/Downloads/Rugved%20Deshpande%20Resume.pdf
 
 - ⚡ Fun fact **I believe writing clean backend code is an art**
 
