@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rugvedd81&show_icons=true&locale=en&layout=compact" alt="rugvedd81" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rugvedd81&" alt="rugvedd81" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rugvedd81&" alt=""/></p>
