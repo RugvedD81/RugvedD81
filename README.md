@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugvedd81" alt="rugvedd81" /></a> </p>
 
-- 🔭 I’m currently working on **Job_Portal**
+- 🔭 I’m currently working on **Job_Portal Application**
 
-- 🌱 I’m currently learning **AWS,Docker,Kubernates,etc**
+- 🌱 I’m currently learning **AWS, Docker, Kubernates, etc**
 
 - 👯 I’m looking to collaborate on [Hotel-Rating-System](https://github.com/RugvedD81/Hotel-Rating-Service)
 
-- 💬 Ask me about **Java,SpringBoot,Spring,Microservices,etc**
+- 💬 Ask me about **Java, SpringBoot, Spring, Microservices, etc**
 
 - 📫 How to reach me **rugveddeshpande041@gmail.com**
 
