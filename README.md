@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **Job_Portal Application as Backend Developer**
 
-- 🌱 I’m currently learning **AWS,Docker,Kubernates,etc**
+- 🌱 I’m currently learning **AWS, Docker, Kubernates, etc**
 
 - 👯 I’m looking to collaborate on [Hotel-Rating-System](https://github.com/RugvedD81/Hotel-Rating-Service)
 
-- 💬 Ask me about **Java,SpringBoot,Spring,Microservices,etc**
+- 💬 Ask me about **Java, SpringBoot, Spring, Microservices, etc**
 
 - 📫 How to reach me **rugveddeshpande041@gmail.com**
 
-- 📄 Know about my experiences file:///C:/Users/rugved%20deshpande/Downloads/Rugved%20Deshpande%20Resume.pdf
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I believe writing clean backend code is an art**
 
