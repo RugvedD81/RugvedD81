@@ -2,8 +2,6 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#4FC3F7">Rugved Deshpande</span></h1>
 <h3 align="center">🚀 Passionate Backend Developer from India</h3>
 
-![GitHub Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugvedd81" alt="rugvedd81" /></a> </p>
 
 - 🔭 I’m currently working on [Job_Portal Application](https://github.com/RugvedD81/Job_Aggregator)
@@ -16,7 +14,8 @@
 
 - 📫 How to reach me **rugveddeshpande041@gmail.com**
 
-- ⚡ Fun fact **My code works... until someone uses it.**
+- ⚡ Fun fact **My code works... until someone uses it.**   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
