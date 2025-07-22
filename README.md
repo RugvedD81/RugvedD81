@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#4FC3F7">Rugved Deshpande</span></h1>
-<h3 align="center">🚀 Passionate Backend Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Passionate Backend Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Spring+Boot+Enthusiast;Backend+Builder+at+Heart" alt="Typing SVG" />
