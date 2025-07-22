@@ -1,7 +1,11 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34D399&width=435&lines=Hi+I'm+a+Spring+Boot+Developer;I+Love+Building+REST+APIs;I+Write+Clean+and+Testable+Code;Learning+Every+Day!+🚀" />
 
-<h1 align="center">Hello Folks..👋, I'm Rugved Deshpande</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#4FC3F7">Rugved Deshpande</span></h1>
+<h3 align="center">🚀 Passionate Backend Developer from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Spring+Boot+Enthusiast;Microservices+Developer;Clean+Code+Lover;Backend+Builder+at+Heart" alt="Typing SVG" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugvedd81" alt="rugvedd81" /></a> </p>
 
