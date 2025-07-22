@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rugveddeshpande041@gmail.com**
 
-- ⚡ Fun fact **I believe writing clean backend code is an art**
+- ⚡ Fun fact **My code works... until someone uses it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
