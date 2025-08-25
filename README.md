@@ -2,7 +2,6 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#4FC3F7">Rugved Deshpande</span></h1>
 <h3 align="center">🚀 Passionate Backend Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rugvedd81" alt="rugvedd81" /></a> </p>
 
 - 🔭 I’m currently working on [Lead Locator Application](https://github.com/RugvedD81/Lead_Locator)
 
